@@ -1,0 +1,26 @@
+
+.mac-animation{
+	display: flex;
+	flex-wrap: nowrap;
+	width: 700px;
+	position: absolute;right: 250px;
+}
+
+
+#img-mac{
+	z-index: 1;
+	width: 500px;
+}
+
+
+#video-stranger{
+	transform: translate(400px, -60px);
+	width: 300px;
+
+
+
+	object-fit: contain;
+
+}
+
+

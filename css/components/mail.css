@@ -1,0 +1,43 @@
+.form-control{
+	height: 60px;
+}
+
+#mail-position{
+	
+	position: absolute; right: 360px;
+
+}
+
+.mail-form{
+	width: 700px;
+	padding: 5px;
+	display: flex;
+	padding-bottom: 10;
+
+
+
+}
+
+#email-2{height: 60px; 
+transform: translate(0px, 0px);}
+
+#email-2{
+	width: 700px;
+	height: 60px;
+	padding: 5px;
+	display: flex;
+	padding-bottom: 10;
+	border-radius: 0%;
+
+}
+
+
+.mail-form-responsive{
+	width: 700px;
+	padding: 5px;
+	display: flex;
+	padding-bottom: 10;
+    height: 100px;}
+
+
+	#email{border-radius: 0%}

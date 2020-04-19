@@ -1,0 +1,50 @@
+@import url(components/btn.css);
+@import url(components/card.css);
+@import url(components/container.css);
+@import url(components/logo.css);
+@import url(components/tv-animation.css);
+@import url(components/mobile-animation.css);
+@import url(components/mac-animation.css);
+@import url(components/txt.css);
+@import url(components/faq.css);
+@import url(components/footer.css);
+@import url(components/mail.css);
+@import url(components/responsiveness.css);
+
+
+
+
+body{background-color: black;
+padding:0;}
+
+
+
+h1{
+	font-size: 55px;
+
+
+
+}
+
+h4{
+	font-size: 25px;
+	width: 500px;
+	text-align: left;
+
+
+}
+
+
+
+
+
+
+.element-3{
+	text-align: center;
+	margin-top: 80px;	
+}
+
+a:hover{
+	text-decoration: none;
+	color: white;
+}
