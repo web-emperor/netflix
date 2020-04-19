@@ -1,0 +1,26 @@
+
+.story-header{
+		display: flex;
+		justify-content: space-between;
+		margin: 30px;
+	}
+
+
+
+
+.element-1{
+	font-family: 'Bebas Neue';
+	color: #e50914;
+	font-size: 49px;
+	transform: translate(40px,-9px);
+
+}
+
+
+
+
+
+
+
+
+	
